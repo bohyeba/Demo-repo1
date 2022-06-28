@@ -1,3 +1,3 @@
 # Demo
 
-Focus on the goal.
+Focus on the goal!
